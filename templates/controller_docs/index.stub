@@ -3,7 +3,7 @@
      * @return Response
      *
      * @SWG\Get(
-     *      path="/$MODEL_NAME_PLURAL_CAMEL$",
+     *      path="/$MODEL_NAME_PLURAL_DASHED$",
      *      summary="Get a listing of the $MODEL_NAME_PLURAL$.",
      *      tags={"$MODEL_NAME$"},
      *      description="Get all $MODEL_NAME_PLURAL$",
